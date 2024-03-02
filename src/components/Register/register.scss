@@ -1,0 +1,24 @@
+
+
+.Control
+ {
+    background: rgb(170,149,205);
+    background: linear-gradient(154deg, rgba(182,171,200,1) 50%, rgba(212,199,225,1) 50%);
+     height: 100vh;
+     
+ } 
+
+.register-container
+{   
+    padding-top:120px;
+    .container-registering
+    {
+        border-radius: 10px;
+        background-color: bisque;
+    }   
+    .custom-style::placeholder
+    {
+        font-style:italic;
+    }
+}
+
